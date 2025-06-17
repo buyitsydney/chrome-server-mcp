@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/buyitsydney-codingbaby-browser-mcp-badge.png)](https://mseep.ai/app/buyitsydney-codingbaby-browser-mcp)
+
 # CodingBaby-Browser-MCP
 
 ## Overview
